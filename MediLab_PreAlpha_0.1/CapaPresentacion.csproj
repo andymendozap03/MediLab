@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0360DD9A-D755-4732-9974-48D45F8C9408}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SATAUiFramework, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SATAUiFramework.1.1.3\lib\net40\SATAUiFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI, Version=3.9.1.0, Culture=neutral, PublicKeyToken=3f4ebed4237db5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\SunnyUI.3.9.1\lib\net472\SunnyUI.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI.Common, Version=3.9.1.0, Culture=neutral, PublicKeyToken=3f4ebed4237db5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\SunnyUI.Common.3.9.1\lib\net472\SunnyUI.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Examen y Factura\dsFacturacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsFacturacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\dsResultadosExamen.cs">
+      <DependentUpon>dsResultadosExamen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\dsResultadosExamen.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsResultadosExamen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmFacturacion.Designer.cs">
+      <DependentUpon>FrmFacturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmGestionFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmGestionFacturacion.Designer.cs">
+      <DependentUpon>FrmGestionFacturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\dsReportesFinancieros.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportesFinancieros.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\dsReportesLaboratorio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportesLaboratorio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\dsSemana.cs">
+      <DependentUpon>dsSemana.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\dsSemana.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSemana.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\FrmAuditoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\FrmAuditoria.Designer.cs">
+      <DependentUpon>FrmAuditoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\FrmFinanciero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\FrmFinanciero.Designer.cs">
+      <DependentUpon>FrmFinanciero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\FrmLaboratorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes_y_Auditoria\FrmLaboratorio.Designer.cs">
+      <DependentUpon>FrmLaboratorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmEspecialidad.Designer.cs">
+      <DependentUpon>FrmEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionMedico.Designer.cs">
+      <DependentUpon>FrmGestionMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionPaciente.Designer.cs">
+      <DependentUpon>FrmGestionPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionRol.Designer.cs">
+      <DependentUpon>FrmGestionRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmGestionUsuarios.Designer.cs">
+      <DependentUpon>FrmGestionUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmHistorialExamen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmHistorialExamen.Designer.cs">
+      <DependentUpon>FrmHistorialExamen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmMedicoAfiliado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmMedicoAfiliado.Designer.cs">
+      <DependentUpon>FrmMedicoAfiliado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmModificarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmModificarPerfil.Designer.cs">
+      <DependentUpon>FrmModificarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmPaciente.Designer.cs">
+      <DependentUpon>FrmPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmPrecios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmPrecios.Designer.cs">
+      <DependentUpon>FrmPrecios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmRecuperarContrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmRecuperarContrasena.Designer.cs">
+      <DependentUpon>FrmRecuperarContrasena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmRegistro.Designer.cs">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmRegistroExamen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmRegistroExamen.Designer.cs">
+      <DependentUpon>FrmRegistroExamen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmSolicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmSolicitud.Designer.cs">
+      <DependentUpon>FrmSolicitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmSolicitudExamen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examen y Factura\FrmSolicitudExamen.Designer.cs">
+      <DependentUpon>FrmSolicitudExamen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmRol.Designer.cs">
+      <DependentUpon>FrmRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios y Seguridad\FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Examen y Factura\FrmFacturacion.resx">
+      <DependentUpon>FrmFacturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\FrmGestionFacturacion.resx">
+      <DependentUpon>FrmGestionFacturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\rptFactura.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\rptResultados.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_y_Auditoria\FrmAuditoria.resx">
+      <DependentUpon>FrmAuditoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_y_Auditoria\FrmFinanciero.resx">
+      <DependentUpon>FrmFinanciero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_y_Auditoria\FrmLaboratorio.resx">
+      <DependentUpon>FrmLaboratorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_y_Auditoria\rptCantidadExamen.rdlc" />
+    <EmbeddedResource Include="Reportes_y_Auditoria\rptCategorias.rdlc" />
+    <EmbeddedResource Include="Reportes_y_Auditoria\rptCuentasPorCobrar.rdlc" />
+    <EmbeddedResource Include="Reportes_y_Auditoria\rptExamenesMasSolicitados.rdlc" />
+    <EmbeddedResource Include="Reportes_y_Auditoria\rptIngresoPeriodo.rdlc" />
+    <EmbeddedResource Include="Reportes_y_Auditoria\rptSolicitudes.rdlc" />
+    <EmbeddedResource Include="Reportes_y_Auditoria\rptIngresoTipoExamen.rdlc" />
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmEspecialidad.resx">
+      <DependentUpon>FrmEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmGestionMedico.resx">
+      <DependentUpon>FrmGestionMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmGestionPaciente.resx">
+      <DependentUpon>FrmGestionPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmGestionRol.resx">
+      <DependentUpon>FrmGestionRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmGestionUsuarios.resx">
+      <DependentUpon>FrmGestionUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\FrmHistorialExamen.resx">
+      <DependentUpon>FrmHistorialExamen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmMedicoAfiliado.resx">
+      <DependentUpon>FrmMedicoAfiliado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmModificarPerfil.resx">
+      <DependentUpon>FrmModificarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmPaciente.resx">
+      <DependentUpon>FrmPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\FrmPrecios.resx">
+      <DependentUpon>FrmPrecios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmRecuperarContrasena.resx">
+      <DependentUpon>FrmRecuperarContrasena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmRegistro.resx">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\FrmRegistroExamen.resx">
+      <DependentUpon>FrmRegistroExamen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\FrmSolicitud.resx">
+      <DependentUpon>FrmSolicitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examen y Factura\FrmSolicitudExamen.resx">
+      <DependentUpon>FrmSolicitudExamen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmRol.resx">
+      <DependentUpon>FrmRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios y Seguridad\FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.manifest" />
+    <None Include="Examen y Factura\dsFacturacion.xsc">
+      <DependentUpon>dsFacturacion.xsd</DependentUpon>
+    </None>
+    <None Include="Examen y Factura\dsFacturacion.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsFacturacion.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Examen y Factura\dsFacturacion.xss">
+      <DependentUpon>dsFacturacion.xsd</DependentUpon>
+    </None>
+    <None Include="Examen y Factura\dsResultadosExamen.xsc">
+      <DependentUpon>dsResultadosExamen.xsd</DependentUpon>
+    </None>
+    <None Include="Examen y Factura\dsResultadosExamen.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsResultadosExamen.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Examen y Factura\dsResultadosExamen.xss">
+      <DependentUpon>dsResultadosExamen.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reportes_y_Auditoria\dsReportesFinancieros.xsc">
+      <DependentUpon>dsReportesFinancieros.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsReportesFinancieros.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportesFinancieros.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsReportesFinancieros.xss">
+      <DependentUpon>dsReportesFinancieros.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsReportesLaboratorio.xsc">
+      <DependentUpon>dsReportesLaboratorio.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsReportesLaboratorio.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportesLaboratorio.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsReportesLaboratorio.xss">
+      <DependentUpon>dsReportesLaboratorio.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsSemana.xsc">
+      <DependentUpon>dsSemana.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsSemana.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSemana.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes_y_Auditoria\dsSemana.xss">
+      <DependentUpon>dsSemana.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Base_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoMedilab2.1.png" />
+    <None Include="Resources\logoMediLab.png" />
+    <None Include="Resources\project.png" />
+    <None Include="Resources\setting.png" />
+    <None Include="Resources\factura-de-pago.png" />
+    <None Include="Resources\informe-financiero.png" />
+    <None Include="Resources\tubo-de-ensayo.png" />
+    <None Include="Resources\datos-del-paciente.png" />
+    <None Include="Resources\atencion-medica.png" />
+    <None Include="Resources\logoMedilab2.png" />
+    <None Include="Resources\logoMedilab2v2.png" />
+    <None Include="Resources\Add_Pfp.png" />
+    <None Include="Resources\engranaje.png" />
+    <None Include="Resources\anadir.png" />
+    <None Include="Resources\solicitud.png" />
+    <None Include="Resources\historia.png" />
+    <None Include="Resources\financiero.png" />
+    <None Include="Resources\laboratorio.png" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\precio.png" />
+    <None Include="Resources\auditoria.png" />
+    <None Include="Resources\lupa.png" />
+    <None Include="Resources\mas3.png" />
+    <None Include="Resources\menos2.png" />
+    <None Include="Resources\contenedor-de-basura.png" />
+    <None Include="Resources\Trash.png" />
+    <None Include="Resources\roles.png" />
+    <None Include="Resources\roles1.png" />
+    <None Include="Resources\marca-de-verificacion.png" />
+    <None Include="Resources\flask.png" />
+    <None Include="Resources\flask1.png" />
+    <None Include="Resources\clipboard.png" />
+    <None Include="Resources\clipboard %281%29.png" />
+    <None Include="Resources\bill.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{53618da2-abb8-4dad-9be6-b2361dba17f3}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

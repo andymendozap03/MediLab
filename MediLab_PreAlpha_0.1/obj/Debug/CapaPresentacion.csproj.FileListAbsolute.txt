@@ -1,0 +1,1356 @@
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.frmLogin.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\kirby\OneDrive\Escritorio\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPacientes.resources
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+D:\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarPaciente.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarSolicitud.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionFactura.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\GARY\Desktop\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.6\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarMedico.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarPaciente.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarSolicitud.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarSolicitud.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarSolicitud.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\GARY\Desktop\asd\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmGestionRol.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRol.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmBuscarUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmGestionRol.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRol.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptFactura.rdlc
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptFactura.rdlc
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe.config
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmGestionRol.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRol.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmGestionRol.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRol.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptFactura.rdlc
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GARY\Desktop\bla\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptFactura.rdlc
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Examen y Factura\rptResultados.rdlc
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe.config
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.exe
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaPresentacion.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\EnvDTE.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\stdole.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaNegocio.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFacturacion.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaDatos.FrmGestionFacturacion.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmAuditoria.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmFinanciero.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLaboratorio.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmEspecialidad.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionMedico.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionPaciente.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmGestionRol.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmGestionUsuarios.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmHistorialExamen.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmMedicoAfiliado.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmModificarPerfil.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPaciente.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmPrecios.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRecuperarContrasena.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistro.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmLogin.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmRegistroExamen.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitud.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmSolicitudExamen.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Usuarios_y_Seguridad.FrmRol.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Formularios.FrmUsuario.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.exe
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\MediLab_PreAlpha_0.1\obj\Debug\CapaPresentacion.pdb

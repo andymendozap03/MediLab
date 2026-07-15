@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CapaDatos/CapaDatos.csproj" Id="28efb25d-c59d-4a32-add2-69c96852419c" />
+  <Project Path="CapaNegocio/CapaNegocio.csproj" Id="53618da2-abb8-4dad-9be6-b2361dba17f3" />
+  <Project Path="MediLab_PreAlpha_0.1/CapaPresentacion.csproj" Id="0360dd9a-d755-4732-9974-48d45f8c9408" />
+</Solution>

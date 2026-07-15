@@ -1,0 +1,16 @@
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\MediLab_PreAlpha_0.1.exe.config
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\MediLab_PreAlpha_0.1.exe
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\MediLab_PreAlpha_0.1.pdb
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0.1.csproj.AssemblyReference.cache
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0._1.Properties.Resources.resources
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0.1.csproj.GenerateResource.cache
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0.1.csproj.CoreCompileInputs.cache
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0.1.exe
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0.1.pdb
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0._1.FrmLogin.resources
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.dll
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.dll
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SunnyUI.Common.xml
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_.6AEF0AA3.Up2Date
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\bin\Debug\SATAUiFramework.dll
+C:\Users\kirby\source\repos\MediLab_PreAlpha_0.1\MediLab_PreAlpha_0.1\obj\Debug\MediLab_PreAlpha_0._1.FrmRegistro.resources

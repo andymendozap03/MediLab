@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andym\\OneDrive\\Documentos\\ANDY\\UTEQ\\3er Semestre\\Proyecto Modelamiento\\MediLab0.9.9\\MediLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|c:\\users\\andym\\onedrive\\documentos\\andy\\uteq\\3er semestre\\proyecto modelamiento\\medilab0.9.9\\medilab\\medilab_prealpha_0.1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|solutionrelative:medilab_prealpha_0.1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andym\\OneDrive\\Documentos\\ANDY\\UTEQ\\3er Semestre\\Proyecto Modelamiento\\MediLab0.9.9\\MediLab\\MediLab_PreAlpha_0.1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "MediLab_PreAlpha_0.1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\andym\\OneDrive\\Documentos\\ANDY\\UTEQ\\3er Semestre\\Proyecto Modelamiento\\MediLab0.9.9\\MediLab\\MediLab_PreAlpha_0.1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MediLab_PreAlpha_0.1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:18:19.145Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

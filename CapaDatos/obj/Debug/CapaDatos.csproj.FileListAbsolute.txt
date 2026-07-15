@@ -1,0 +1,60 @@
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\asd\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\asd\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\asd\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\GARY\Desktop\asd\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\GARY\Desktop\asd\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\asd\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\bla\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\bla\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\bla\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\GARY\Desktop\bla\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\GARY\Desktop\bla\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\bla\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaDatos\obj\Debug\CapaDatos.pdb

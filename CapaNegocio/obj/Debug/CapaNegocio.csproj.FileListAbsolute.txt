@@ -1,0 +1,99 @@
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab_PreAlpha_0.1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.2\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\kirby\OneDrive\Escritorio\MediLab0.8\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.8.1\MediLab0.8.1\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\WinterOS\Desktop\MediLab0.9.3\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\GARY\Desktop\asd\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.4\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.7\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\andym\OneDrive\Documentos\ANDY\UTEQ\3er Semestre\Proyecto Modelamiento\MediLab0.9.9\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\GARY\Desktop\bla\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\WinterOS\Music\MediLab_000001\MediLab\CapaNegocio\obj\Debug\CapaNegocio.pdb

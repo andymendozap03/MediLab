@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28EFB25D-C59D-4A32-ADD2-69C96852419C}|CapaDatos\\CapaDatos.csproj|c:\\users\\winteros\\music\\medilab_000001\\medilab\\capadatos\\csconexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EFB25D-C59D-4A32-ADD2-69C96852419C}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\csconexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|c:\\users\\winteros\\music\\medilab_000001\\medilab\\medilab_prealpha_0.1\\usuarios y seguridad\\frmrecuperarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|solutionrelative:medilab_prealpha_0.1\\usuarios y seguridad\\frmrecuperarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53618DA2-ABB8-4DAD-9BE6-B2361DBA17F3}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\capanegocio\\usuarios y seguridad\\csrecuperarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53618DA2-ABB8-4DAD-9BE6-B2361DBA17F3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\usuarios y seguridad\\csrecuperarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53618DA2-ABB8-4DAD-9BE6-B2361DBA17F3}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\capanegocio\\usuarios y seguridad\\irecuperarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53618DA2-ABB8-4DAD-9BE6-B2361DBA17F3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\usuarios y seguridad\\irecuperarcontrasena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\medilab_prealpha_0.1\\reportes_y_auditoria\\frmfinanciero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|solutionrelative:medilab_prealpha_0.1\\reportes_y_auditoria\\frmfinanciero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\medilab_prealpha_0.1\\reportes_y_auditoria\\frmlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|solutionrelative:medilab_prealpha_0.1\\reportes_y_auditoria\\frmlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\medilab_prealpha_0.1\\reportes_y_auditoria\\frmfinanciero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|solutionrelative:medilab_prealpha_0.1\\reportes_y_auditoria\\frmfinanciero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\medilab_prealpha_0.1\\reportes_y_auditoria\\frmlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0360DD9A-D755-4732-9974-48D45F8C9408}|MediLab_PreAlpha_0.1\\CapaPresentacion.csproj|solutionrelative:medilab_prealpha_0.1\\reportes_y_auditoria\\frmlaboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "csConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\CapaDatos\\csConexionBD.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\csConexionBD.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\CapaDatos\\csConexionBD.cs*",
+              "RelativeToolTip": "CapaDatos\\csConexionBD.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T04:09:33.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRecuperarContrasena.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Usuarios y Seguridad\\FrmRecuperarContrasena.cs",
+              "RelativeDocumentMoniker": "MediLab_PreAlpha_0.1\\Usuarios y Seguridad\\FrmRecuperarContrasena.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Usuarios y Seguridad\\FrmRecuperarContrasena.cs",
+              "RelativeToolTip": "MediLab_PreAlpha_0.1\\Usuarios y Seguridad\\FrmRecuperarContrasena.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:54:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRecuperarContrasena.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\CapaNegocio\\Usuarios y Seguridad\\IRecuperarContrasena.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Usuarios y Seguridad\\IRecuperarContrasena.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\CapaNegocio\\Usuarios y Seguridad\\IRecuperarContrasena.cs",
+              "RelativeToolTip": "CapaNegocio\\Usuarios y Seguridad\\IRecuperarContrasena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:46:32.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "csRecuperarContrasena.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\CapaNegocio\\Usuarios y Seguridad\\csRecuperarContrasena.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Usuarios y Seguridad\\csRecuperarContrasena.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\CapaNegocio\\Usuarios y Seguridad\\csRecuperarContrasena.cs",
+              "RelativeToolTip": "CapaNegocio\\Usuarios y Seguridad\\csRecuperarContrasena.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:46:28.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLaboratorio.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs",
+              "RelativeDocumentMoniker": "MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs",
+              "RelativeToolTip": "MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAUwGIBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:08:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFinanciero.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs",
+              "RelativeDocumentMoniker": "MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs",
+              "RelativeToolTip": "MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs",
+              "ViewState": "AgIAAIMBAAAAAAAAAAA3wK8BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:57:37.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLaboratorio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs",
+              "RelativeDocumentMoniker": "MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs",
+              "ToolTip": "C:\\Users\\GARY\\Desktop\\bla\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\GARY\\Desktop\\bla\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmLaboratorio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:08:22.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFinanciero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Music\\MediLab_000001\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs",
+              "RelativeDocumentMoniker": "MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs",
+              "ToolTip": "C:\\Users\\GARY\\Desktop\\bla\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\GARY\\Desktop\\bla\\MediLab\\MediLab_PreAlpha_0.1\\Reportes_y_Auditoria\\FrmFinanciero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:54:01.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

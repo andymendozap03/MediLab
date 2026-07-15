@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsReportesLaboratorio" targetNamespace="http://tempuri.org/dsReportesLaboratorio.xsd" xmlns:mstns="http://tempuri.org/dsReportesLaboratorio.xsd" xmlns="http://tempuri.org/dsReportesLaboratorio.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsReportesLaboratorio" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="dsReportesLaboratorio" msprop:Generator_DataSetName="dsReportesLaboratorio">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCantidadExamen" msprop:Generator_RowEvHandlerName="dtCantidadExamenRowChangeEventHandler" msprop:Generator_RowDeletedName="dtCantidadExamenRowDeleted" msprop:Generator_RowDeletingName="dtCantidadExamenRowDeleting" msprop:Generator_RowEvArgName="dtCantidadExamenRowChangeEvent" msprop:Generator_TablePropName="dtCantidadExamen" msprop:Generator_RowChangedName="dtCantidadExamenRowChanged" msprop:Generator_RowChangingName="dtCantidadExamenRowChanging" msprop:Generator_TableClassName="dtCantidadExamenDataTable" msprop:Generator_RowClassName="dtCantidadExamenRow" msprop:Generator_TableVarName="tabledtCantidadExamen" msprop:Generator_UserTableName="dtCantidadExamen">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Periodo" msprop:Generator_ColumnPropNameInRow="Periodo" msprop:Generator_ColumnPropNameInTable="PeriodoColumn" msprop:Generator_ColumnVarNameInTable="columnPeriodo" msprop:Generator_UserColumnName="Periodo" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_UserColumnName="Cantidad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtExamenesMasSolicitados" msprop:Generator_RowEvHandlerName="dtExamenesMasSolicitadosRowChangeEventHandler" msprop:Generator_RowDeletedName="dtExamenesMasSolicitadosRowDeleted" msprop:Generator_RowDeletingName="dtExamenesMasSolicitadosRowDeleting" msprop:Generator_RowEvArgName="dtExamenesMasSolicitadosRowChangeEvent" msprop:Generator_TablePropName="dtExamenesMasSolicitados" msprop:Generator_RowChangedName="dtExamenesMasSolicitadosRowChanged" msprop:Generator_RowChangingName="dtExamenesMasSolicitadosRowChanging" msprop:Generator_TableClassName="dtExamenesMasSolicitadosDataTable" msprop:Generator_RowClassName="dtExamenesMasSolicitadosRow" msprop:Generator_TableVarName="tabledtExamenesMasSolicitados" msprop:Generator_UserTableName="dtExamenesMasSolicitados">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Examen" msprop:Generator_ColumnPropNameInRow="Examen" msprop:Generator_ColumnPropNameInTable="ExamenColumn" msprop:Generator_ColumnVarNameInTable="columnExamen" msprop:Generator_UserColumnName="Examen" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_UserColumnName="Cantidad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
